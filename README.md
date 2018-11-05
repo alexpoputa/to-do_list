@@ -1,14 +1,13 @@
-Project Title
+# Project Title
 TO-DO LIST
 
-About
+### About
 Simple To-Do List project
-
-Built With
+### Built With
 HTLM/CSS/JS
 
-Authors
+### Authors
 Poputa Alexandru
 
-License
+### License
 This project is licensed under the MIT License.
