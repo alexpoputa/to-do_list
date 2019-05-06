@@ -8,6 +8,3 @@ HTLM/CSS/JS
 
 ### Authors
 Poputa Alexandru
-
-### License
-This project is licensed under the MIT License.
